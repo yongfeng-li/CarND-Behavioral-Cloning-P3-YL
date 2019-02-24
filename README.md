@@ -96,18 +96,6 @@ of four images:
 3. Left camera image
 4. Right camera image
 
-Here are some sample images of raw and preprocessed images:
-### Raw
-![](./images/raw.png)
-
-### Converted to RGB
-![](./images/rgb.png)
-
-### Cropped
-![](./images/cropped.png)
-
-### Resized to 160x70
-![](./images/resized.png)
 
 I found that this was sufficient to meet the project requirements for the first track. To make the car
 run on the same track, additional data augmenation techniques like adding random brightness, shearing and horizontal
